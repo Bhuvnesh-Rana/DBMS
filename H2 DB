@@ -1,0 +1,2 @@
+H2 Database in Spring Boot is an embedded, open-source, and in-memory database. It is a relational database management system written in Java. It is a client/server application. It stores data in memory, not persist the data
+on disk. Here we will be discussing how can we configure and perform some basic operations in Spring Boot using H2 Database.
