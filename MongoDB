@@ -1,2 +1,12 @@
-MongoDB is a document-oriented NoSQL database system that provides high scalability, flexibility, and performance. Unlike standard relational databases, MongoDB stores data in a JSON document structure form. This makes it easy
-to operate with dynamic and unstructured data and MongoDB is an open-source and cross-platform database System.
+# Applications.properties
+
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=first
+# spring.data.mongodb.username=admin
+# spring.data.mongodb.password=password
+
+
+
+MongoDB is a document-oriented NoSQL database system that provides high scalability, flexibility, and performance. Unlike standard relational databases, MongoDB stores data in
+a JSON document structure form. This makes it easy to operate with dynamic and unstructured data and MongoDB is an open-source and cross-platform database System.
